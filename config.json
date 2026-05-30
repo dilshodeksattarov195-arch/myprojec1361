@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheualidate",
+        "uuid": 12962164,
+        "checksum": "nx1lp"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
